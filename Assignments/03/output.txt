@@ -1,0 +1,86 @@
+The category 'category-1A' having 300 seats has been created
+The category 'category-2A' having 300 seats has been created
+The category 'category-1E' having 300 seats has been created
+Warning: Cannot create the category for the second time. The stadium has alreadycategory-2A.
+Success: kadriye has bought C2-10 at category-1A
+Success: kadriye has bought C2-10 at category-1A
+Warning: The seat C2-10 cannot be sold to kadriye since it was already sold!
+Warning: The seat C9-12 cannot be sold to dogan since it was already sold!
+Success: arzu has bought G4 at category-1E
+Warning: The seat H1-12 cannot be sold to felipe since it was already sold!
+Success: nani has bought G5 at category-1E
+Success: ahmet has bought A3 at category-2A
+Warning: The seat D3-12 cannot be sold to anil since it was already sold!
+Error: The category category-2A has less column than the specified index D4-54
+Warning: The seat G4-12 cannot be sold to hami since it was already sold!
+Warning: The seat G4-12 cannot be sold to hami since it was already sold!
+Warning: The seat N3-8 cannot be sold to drogba since it was already sold!
+Warning: The seat N3-8 cannot be sold to drogba since it was already sold!
+Success: The seat H3 at category-2A has been canceled and now ready to sell again
+Error: The seat D7 at category-1E has already been free! Nothing to cancel
+Error: The category category-1E has less column than the specified index U32
+O	XXXSSXXXXXXXXXXX	
+N	XXXSSXXXXXXXXXXX	
+M	XXXSSXXXXXXXXXXX	
+L	XXXSSXXXXXXXXXXX	
+K	XXXSSXXXXXXXXXXX	
+J	XXXSSXXXXXXXXXXX	
+I	XXXSSXXXXXXXXXXX	
+H	XXXSSXXXXXXXXXXX	
+G	XXXSSXXXXXXXXXXX	
+F	XXXSSXXXXXXXXXXX	
+E	XXXSSXXXXXXXXXXX	
+D	XXXSSXXXXXXXXXXX	
+C	XXXSSXXXXXXXXXXX	
+B	XXXSSXXXXXXXXXXX	
+A	XXXSSXXXXXXXXXXX	
+ 	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	Category report of category-1A
+
+--------------------------------
+Sum of students =30, Sum of full pay =0, Sum of season ticket=0, and Revenues =300Dollars
+Success: The seat C3 at category-1A has been canceled and now ready to sell again
+O	XXXXSXXXXXXXXXXX	
+N	XXXXSXXXXXXXXXXX	
+M	XXXXSXXXXXXXXXXX	
+L	XXXXSXXXXXXXXXXX	
+K	XXXXSXXXXXXXXXXX	
+J	XXXXSXXXXXXXXXXX	
+I	XXXXSXXXXXXXXXXX	
+H	XXXXSXXXXXXXXXXX	
+G	XXXXSXXXXXXXXXXX	
+F	XXXXSXXXXXXXXXXX	
+E	XXXXSXXXXXXXXXXX	
+D	XXXXSXXXXXXXXXXX	
+C	XXXXSXXXXXXXXXXX	
+B	XXXXSXXXXXXXXXXX	
+A	XXXXSXXXXXXXXXXX	
+ 	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	Category report of category-1A
+
+--------------------------------
+Sum of students =15, Sum of full pay =0, Sum of season ticket=0, and Revenues =150Dollars
+Y	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+X	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+W	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+V	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+U	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+T	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+S	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+R	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+Q	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+P	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+O	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+N	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+M	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+L	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+K	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+J	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+I	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+H	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+G	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+F	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+E	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+D	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+C	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+B	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+A	XXXXSFXXXXXXXXXXXXXXXXXXXX	
+ 	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	Error: The seat P3 at category-1E has already been free! Nothing to cancel
