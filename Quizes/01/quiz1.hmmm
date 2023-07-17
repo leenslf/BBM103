@@ -1,0 +1,16 @@
+0 read r1 
+1 write r1 #FallingTime
+2 read r2
+3 write r2 #InitialVelocity 
+4 read r3
+5 write r3 #InitialPosition 
+6 setn r5 -10
+7 mul r1 r1 r1 
+8 mul r1 r1 r5 
+9 setn r4 2 
+10 div r1 r1 r4 
+11 add r1 r1 r3
+12 mul r6 r2 r1
+13 add r1 r1 r6
+14 write r1 
+15 halt
